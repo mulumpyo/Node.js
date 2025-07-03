@@ -1,0 +1,18 @@
+{
+  "name": "node-project",
+  "version": "1.0.0",
+  "description": "노드 끝없는 여정의 시작...",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "mulumpyo",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^2.2.0",
+    "cors": "^2.8.5",
+    "express": "^5.1.0",
+    "multer": "^2.0.1",
+    "router": "^2.2.0"
+  }
+}

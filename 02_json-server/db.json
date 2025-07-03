@@ -1,39 +1,24 @@
 {
   "post": [
     {
-      "id": "2",
-      "title": "검열된 게시글",
-      "author": "재명"
-    },
-    {
-      "id": "2",
+      "id": "bfcb",
       "title": "json 서버에서 추가",
       "author": "json"
     },
     {
-      "id": "2",
+      "id": "0bd3",
       "title": "json 서버에서 추가",
       "author": "json"
     },
     {
-      "id": "2",
-      "title": "json 서버에서 추가",
-      "author": "json"
-    },
-    {
-      "id": "2",
-      "title": "json 서버에서 추가",
-      "author": "json"
-    },
-    {
-      "id": "2",
-      "title": "json 서버에서 추가",
-      "author": "json"
-    },
-    {
-      "id": 9,
+      "id": "9b19",
       "title": "fetch",
       "author": "test"
+    },
+    {
+      "id": "a0f5",
+      "title": "json 서버에서 추가",
+      "author": "json"
     }
   ]
 }
