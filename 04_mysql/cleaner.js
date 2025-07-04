@@ -6,7 +6,6 @@ const UPLOADS_DIR = path.join(__dirname, "uploads");
 
 // .xlsx 파일 삭제 함수
 const deleteExcelFiles = () => {
-  console.log("log star");
   console.log(`[${new Date().toLocaleString()}] .xlsx 파일 삭제 작업 시작...`);
 
   // uploads 폴더가 존재하는지 확인
